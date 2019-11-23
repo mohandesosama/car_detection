@@ -139,7 +139,7 @@ plt.legend(loc="lower right")
 plt.show()
 ```
 The resulting ROC curve is shown in the following image
-[ROC curve](https://github.com/mohandesosama/car_detection/blob/master/report%20images/ROC%20curve.png)
+![ROC curve](https://github.com/mohandesosama/car_detection/blob/master/report%20images/ROC%20curve.png)
 Thanks  
 Osama Hosameldeen  
 Taibah University
