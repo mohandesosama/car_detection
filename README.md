@@ -1,5 +1,5 @@
 # Car Detection with Neural Networks using Pytorch
-Our objective in this project is to detect the existence of cars in an image (binary classification)  
+Our objective in this project is to detect the existence of cars in an image (binary classification), The code of the project is found on the jupyter notebook Main_function.ipynd
 # Image Dataset
 Vehicle image database is downloaded from https://www.gti.ssr.upm.es/data/Vehicle_database.html
 The code of loading dataset is 
